@@ -23,7 +23,7 @@ The repository also contains materials from:
 
 * R version 4.5.3
 * PyMOL version 3.1.8
-* AlphaFold2-ptm through ColabFold for the supplied structure predictions
+* ColabFold with the AlphaFold2-ptm model; the supplied structure predictions were generated using NVIDIA L40S GPUs on the DRAGO supercomputer at the Spanish National Research Council (CSIC)
 
 ## Data provenance
 
