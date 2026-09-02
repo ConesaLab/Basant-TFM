@@ -3,7 +3,7 @@
 ## Project overview
 This repository contains the analysis scripts, summary tables and supplementary figures produced for Basant’s MSc thesis in Omics Data Analysis at Universitat de Vic – Universitat Central de Catalunya.
 
-The study compared AlphaFold2-predicted structural confidence among proteins derived from full-splice-match (FSM), novel-in-catalog (NIC) and novel-not-in-catalog (NNC) long-read transcript isoforms. The main balanced dataset comprised 3,334 genes, each represented by one FSM, one NIC and one NNC protein, giving 10,002 predicted structures.
+The study was conducted in three stages. First, supplied open reading frame (ORF) and predicted nonsense-mediated decay (NMD) annotations were examined for selected transcripts from GAD2, INS and CHGA. A preliminary descriptive comparison was performed using five coding NIC isoforms with available AlphaFold2 mean pLDDT scores: four from CHGA and one from GAD2. INS was inspected at this stage but did not contribute a NIC protein to the ORF/NMD comparison. Second, mean pLDDT distributions were compared among FSM, NIC and NNC protein sequences associated with GAD2, INS and CHGA, providing an exploratory transcript-category comparison across the three selected genes. Third, the main balanced analysis compared AlphaFold2-predicted structural confidence among FSM, NIC and NNC proteins from 3,334 genes. Each gene was represented by one protein from each category, giving 10,002 predicted structures. High-confidence NIC models were subsequently matched with FSM models from the same genes and compared visually using PyMOL.
 
 The repository also contains materials from:
 
