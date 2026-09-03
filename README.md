@@ -69,5 +69,4 @@ Email: basantmohamed.hashesh@uvic.cat
 
 ## Availability
 
-This repository is currently maintained as a private supplementary-material repository within the ConesaLab GitHub organisation. Public visibility and the final reuse licence should be confirmed by the research group before release.
-
+This repository is currently maintained as a private supplementary-material repository within the ConesaLab GitHub organisation.
