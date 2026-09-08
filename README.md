@@ -67,3 +67,8 @@ Faculty of Sciences, Technology and Engineering
 Universitat de Vic – Universitat Central de Catalunya  
 Email: basantmohamed.hashesh@uvic.cat
 
+## License
+
+Code and scripts in this repository are released under the MIT License; see `LICENSE-CODE.md`.
+
+Supplementary figures, derived summary tables, documentation and other non-code materials are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated; see `LICENSE-MATERIALS.md`.
