@@ -67,6 +67,3 @@ Faculty of Sciences, Technology and Engineering
 Universitat de Vic – Universitat Central de Catalunya  
 Email: basantmohamed.hashesh@uvic.cat
 
-## Availability
-
-This repository is currently maintained as a private supplementary-material repository within the ConesaLab GitHub organisation.
